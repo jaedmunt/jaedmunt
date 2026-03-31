@@ -73,6 +73,8 @@ Software engineer/venture capital analyst with a background in economics - obses
 
 *most of my work has lived in private repos — that's changing*
 
+[Big node, little node](https://github.com/jaedmunt/big-node-little-node)
+
 <img src="https://github-readme-stats.vercel.app/api?username=jaedmunt&show_icons=true&theme=dark&hide_border=true&hide_title=true" height="130" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaedmunt&layout=compact&theme=dark&hide_border=true" height="130" />
 </div>
