@@ -10,7 +10,15 @@ Working on ⫍‍⌕‍⫎
 
 [![Email](https://img.shields.io/badge/email-jaedon%40fluxsearch.io-black?style=flat-square&logo=gmail&logoColor=white)](mailto:jaedon@fluxsearch.io)
 [![LinkedIn](https://img.shields.io/badge/linkedin-jaedonmunton-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaedonmunton)
-[![Boot Dev](https://www.boot.dev/u/constantphrase45)
+
+<br>
+<p align="center">
+  <a href="https://www.boot.dev/u/constantphrase45">
+    <img src="https://api.boot.dev/v1/users/public/2d508e75-37dd-4783-b137-f7874c238ce2/thumbnail" 
+         width="200" 
+         style="border: 3px solid #e0e0e0; border-radius: 16px;">
+  </a>
+</p>  
 
 </div>
 
