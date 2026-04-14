@@ -83,7 +83,7 @@ Software engineer/venture capital analyst with a background in economics - obses
 *most of my work has lived in private repos — that's changing*
 
 [Big node, little node](https://github.com/jaedmunt/big-node-little-node) - Distributed ML inference across a desktop RTX 3060 and a Raspberry Pi 4B, connected with Ray.
-<br>
+\
 [XNV](https://github.com/jaedmunt/xnv) - Interactive XML navigator and filter with XPath-like queries. `cargo install xnv` / `brew install xnv`
 
 <!-- 
