@@ -73,7 +73,6 @@ Currently, I'm also exploring query expansion, query decomposition, and how to h
 ### Where I'm opinionated
 
 - I prefer Rust and Go over Python on the hot path for tail latency, GIL-free concurrency, and more predictable memory behaviour.
-- I prefer encoder-only approaches over decoder-based ones when the problem allows it, to find cost-effective methods of achieving the same quality of output.
 - I prefer measuring against realistic query patterns over headline benchmarks when evaluating tail latency and cost per task.
 - I prefer to make something work first, then make it work fast, then make it work for a lot of users.
 - For always-on systems like search, which balance precision and latency at high volume, the fundamentals matter early. Small decisions compound at scale.
