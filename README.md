@@ -4,10 +4,6 @@
 
 **Building search engines, AI pipelines, and high-throughput systems**
 
-```
-Metrics I care about: Cost per task · Precision · Data lineage · Recall
-```
-
 [![Website](https://img.shields.io/badge/jaedonmunton.pro-000000?style=flat-square&logo=safari&logoColor=white)](https://jaedonmunton.pro)
 [![Email](https://img.shields.io/badge/email-jaedon%40fluxsearch.io-black?style=flat-square&logo=gmail&logoColor=white)](mailto:jaedon@fluxsearch.io)
 [![Email Doubleword](https://img.shields.io/badge/email-jaedon.munton%40doubleword.ai-0F172A?style=flat-square&logo=gmail&logoColor=white)](mailto:jaedon.munton@doubleword.ai)
